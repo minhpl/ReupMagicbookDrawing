@@ -1,0 +1,25 @@
+/Assets/NGUI/
+/OpenCVForUnity/*
+!OpenCVForUnity/Examples/
+*.meta
+/Cinema Suite/
+/OpenCVForUnity/
+/AndroidGallery/
+/Animation2D/
+/Zip/
+/UnityPackages/
+/AVProMovieCapture/
+/PostProcessing/
+/SimpleSpriteAnimator/
+/Snow_FX/
+/Spine/
+/TouchScript/
+/unity-ui-extensions/
+/Unimgpicker/
+/SWAN Dev/
+/Editor Default Resources/
+/Particle Ribbon by Moonflower Carnivore/
+/PlayServicesResolver/
+/Extensions/
+/BezierCurves/
+/BansheeGz/
